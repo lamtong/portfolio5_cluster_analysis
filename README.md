@@ -1,5 +1,7 @@
 # Customer Segmentation Analysis for a UK Bank
 
+*Tools Used: Python (Jupiter Notebook)*
+
 Refer to [portfolio_task5.ipynb](./portfolio_task5.ipynb) or [portfolio_task5.html](./portfolio_task5.html) for a detailed report of the analysis.
 
 
